@@ -36,7 +36,7 @@ This dashboard analyzes sales performance with a focus on:
 - *Raw Data*:(https://github.com/grey141-prog/Sales-Performance-Dashboard/blob/main/supermarket_sales%20-%20Sheet1.csv).
   
 ## 🖼 *Dashboard tablue*  
-![Tableau Dashboard](https://github.com/grey141-prog/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.twb)  
+![Tableau Dashboard] : (https://github.com/grey141-prog/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.twb).  
 Interactive dashboard with filters for region, branch, and product line. 
 
 ## ⚙ *How to Use*  
