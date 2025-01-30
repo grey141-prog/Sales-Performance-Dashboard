@@ -33,5 +33,10 @@ This dashboard analyzes sales performance with a focus on:
 - *Profitability Analysis*: Gross income vs. quantity sold.
   
 ## 📂 *Data Source*  
-- *Raw Data*: sales_data.csv (sample data included in the repository). 
+- *Raw Data*:(https://github.com/grey141-prog/Sales-Performance-Dashboard/blob/main/supermarket_sales%20-%20Sheet1.csv).
+  
+## 🖼 *Dashboard tablue*  
+![Tableau Dashboard](link_tableau_screenshot.png)  
+Interactive dashboard with filters for region, branch, and product line.  
+
  
