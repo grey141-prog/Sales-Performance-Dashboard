@@ -36,7 +36,20 @@ This dashboard analyzes sales performance with a focus on:
 - *Raw Data*:(https://github.com/grey141-prog/Sales-Performance-Dashboard/blob/main/supermarket_sales%20-%20Sheet1.csv).
   
 ## 🖼 *Dashboard tablue*  
-![Tableau Dashboard](link_tableau_screenshot.png)  
-Interactive dashboard with filters for region, branch, and product line.  
+![Tableau Dashboard](https://github.com/grey141-prog/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.twb)  
+Interactive dashboard with filters for region, branch, and product line. 
 
- 
+## ⚙ *How to Use*  
+### *1. Data Cleansing (Excel)*  
+- Open cleaned_sales_data.xlsx to review the cleansing steps.  
+- Replace the sample data with your raw data and reapply the cleansing process.  
+
+### *2. Tableau Dashboard*  
+1. Download the Tableau workbook (Sales Performance Dashboard.twb).  
+2. Connect Tableau to your cleaned Excel file. 
+3. Refresh the dashboard to reflect updated data.  
+4. Use filters (region, branch, date) to explore insights dynamically. 
+
+## 🤝 *Contribution*  
+- Contributions are welcome! Fork the repo and submit a *pull request*.  
+
